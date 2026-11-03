@@ -135,5 +135,3 @@ AI was used as a learning and explanation tool, not to generate the submitted co
 - Explaining the subject and the structure of the project.
 - Explaining networking concepts (subnet masks, block sizes, network and broadcast addresses, gateways, routing).
 - Helping to read and understand the simulator's log messages when a level failed.
-
-All configurations were understood and verified, and I can explain every level during the defense.
